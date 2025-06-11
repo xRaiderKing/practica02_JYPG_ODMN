@@ -16,4 +16,4 @@ jobs:
       - name: Echo Terminal
         run: echo Hello, world!,
       - name: Echo Time
-        run: echo date
+        run: date
